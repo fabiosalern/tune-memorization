@@ -1,5 +1,5 @@
 # An Approach for Extracting Training Data from fine-tuned Large Language Models for Code
-Replication package for the Mac thesis titled: "*An Approach for Extracting Training Data from fine-tuned Large Language Models for Code*"
+Replication package for the MSc thesis titled: "*An Approach for Extracting Training Data from fine-tuned Large Language Models for Code*"
 
 ## Requirements
 Ensure you have the following software installed on your machine:
